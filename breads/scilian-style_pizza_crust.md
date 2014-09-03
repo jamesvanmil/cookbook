@@ -1,6 +1,6 @@
 # Scilian-style pizza crust
 
-Prepare desired amount with rations below; 250 grams of flour yields a thick crust for a large cast-iron skillet
+Prepare desired amount with ratios below; 250 grams of flour yields a thick crust for a large cast-iron skillet
 
 ## The Ratios:
 
