@@ -10,7 +10,7 @@
 
 ## Ratios
 
-4:1::fat:flour, 20 grams of flour per small taco shell, 60 grams for quesodilla shall
+4:1::flour:fat, 20 grams of flour per small taco shell, 60 grams for quesodilla shall
 
 ## Instructions
 
