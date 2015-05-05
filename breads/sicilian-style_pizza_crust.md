@@ -1,4 +1,4 @@
-# Scilian-style pizza crust
+# Sicilian-style pizza crust
 
 Prepare desired amount with ratios below; 250 grams of flour yields a thick crust for a large cast-iron skillet
 
